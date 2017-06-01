@@ -1,0 +1,15 @@
+{
+  "name": "wechat_bot",
+  "version": "1.0.0",
+  "description": "order bot",
+  "main": "order_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geekplux",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "wechaty": "^0.8.90"
+  }
+}
